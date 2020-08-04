@@ -8,6 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flying DJI Tello drone using Golang](gabrieltanner.org/blog/dji-tello-golang)
+- [Build a Realtime Chat Server With Go and WebSockets](gabrieltanner.org/blog/realtime-chat-go-websockets)
+- [Golang file uploading](gabrieltanner.org/blog/golang-file-uploading)
+- [Exposing your local server to the internet over NAT using FRP](gabrieltanner.org/blog/port-forwarding-frp)
+- [An Introduction to Docker](gabrieltanner.org/blog/docker-introduction)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
