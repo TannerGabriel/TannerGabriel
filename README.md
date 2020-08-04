@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanner Gabriel</h1>
+<h3 align="center">Backend Developer | Web Developer | Part-time Blogger</h3>
 
-<!--
-**TannerGabriel/TannerGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tannergabriel&show_icons=true" alt="tannergabriel" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://dev.to/gabrieltanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gabrieltanner" height="30" width="30" /></a>
+<a href="https://twitter.com/gabrieltanner14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabrieltanner14" height="30" width="30" /></a>
+<a href="https://medium.com/@gabrieltanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gabrieltanner" height="30" width="30" /></a>
+</p>
