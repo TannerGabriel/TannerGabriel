@@ -6,6 +6,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tannergabriel&show_icons=true" alt="tannergabriel" />
 </p>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
 <a href="https://dev.to/gabrieltanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gabrieltanner" height="30" width="30" /></a>
 <a href="https://twitter.com/gabrieltanner14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabrieltanner14" height="30" width="30" /></a>
