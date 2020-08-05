@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanner Gabriel</h1>
-<h3 align="center">Backend Developer | Web Developer | Part-time Blogger</h3>
+<h3 align="center">Backend Developer | Part-time Blogger | Catch me at https://gabrieltanner.org/</h3>
 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tannergabriel&show_icons=true" alt="tannergabriel" />
 </p>
 
-## Blog posts
+## Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Flying DJI Tello drone using Golang](gabrieltanner.org/blog/dji-tello-golang)
 - [Build a Realtime Chat Server With Go and WebSockets](gabrieltanner.org/blog/realtime-chat-go-websockets)
