@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tanner Gabriel</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Tanner</h1>
 <h3 align="center">Backend Developer | Part-time Blogger | Catch me at https://gabrieltanner.org/</h3>
-
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tannergabriel&show_icons=true" alt="tannergabriel" />
