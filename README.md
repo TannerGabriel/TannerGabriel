@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gabriel Tanner</h1>
-<h3 align="center">Backend Developer | Part-time Blogger | Catch me at https://gabrieltanner.org/</h3>
+# Hi 👋, I'm Gabriel Tanner
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tannergabriel&show_icons=true" alt="tannergabriel" />
-</p>
+I'm a backend developer currently focusing on Golang that loves to write technical articles and contributing to open source.
 
-## Latest blog posts
+- 👨🏽‍💻 Currently working and growing my skillset in Golang, Docker and Kubernetes
+- 🤝 Open for collaborations regarding technical articles and backend/devops projects
+- 🌐 Visit my [website](https://gabrieltanner.org) for more information
+
+<b>📕 Latest blog posts</b>
 
 <!-- BLOG-POST-LIST:START -->
 - [Flying DJI Tello drone using Golang](https://gabrieltanner.org/blog/dji-tello-golang)
@@ -15,8 +16,13 @@
 - [An Introduction to Docker](https://gabrieltanner.org/blog/docker-introduction)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-<a href="https://dev.to/gabrieltanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gabrieltanner" height="30" width="30" /></a>
-<a href="https://twitter.com/gabrieltanner14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabrieltanner14" height="30" width="30" /></a>
-<a href="https://medium.com/@gabrieltanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gabrieltanner" height="30" width="30" /></a>
+<b> 🤝To connect with me</b>
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/GabrielTanner14) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@gabrieltanner)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22&color=black">](https://gabrieltanner.org)
+
 </p>
+
+Passionate about **Golang/Linux/Open source**. Likes to write code. **Scroll down!**
