@@ -9,11 +9,11 @@ I'm a backend developer currently focusing on Golang that loves to write technic
 <b>📕 Latest blog posts</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to visualize Sensor data using Grafana and InfluxDB](https://gabrieltanner.org/blog/grafana-sensor-visualization)
 - [Flying DJI Tello drone using Golang](https://gabrieltanner.org/blog/dji-tello-golang)
 - [Build a Realtime Chat Server With Go and WebSockets](https://gabrieltanner.org/blog/realtime-chat-go-websockets)
 - [Golang file uploading](https://gabrieltanner.org/blog/golang-file-uploading)
 - [Exposing your local server to the internet over NAT using FRP](https://gabrieltanner.org/blog/port-forwarding-frp)
-- [An Introduction to Docker](https://gabrieltanner.org/blog/docker-introduction)
 <!-- BLOG-POST-LIST:END -->
 
 <b> 🤝To connect with me</b>
