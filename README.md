@@ -9,11 +9,11 @@ I'm a backend developer currently focusing on Golang that loves to write technic
 <b>📕 Latest blog posts</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-host your blogs comment section using Commento](https://gabrieltanner.org/blog/self-host-your-blogs-comment-section-using-commento)
 - [Setting up a HA Kubernetes cluster using K3S](https://gabrieltanner.org/blog/ha-kubernetes-cluster-using-k3s)
 - [Error handling in Golang](https://gabrieltanner.org/blog/golang-error-handling-definitive-guide)
 - [Golang Application monitoring using Prometheus](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang)
 - [An Introduction to Golang](https://gabrieltanner.org/blog/an-introduction-to-golang)
-- [Building a WebRTC video and audio Broadcaster in Golang using ION-SFU, and media devices](https://gabrieltanner.org/blog/broadcasting-ion-sfu)
 <!-- BLOG-POST-LIST:END -->
 
 <b> 🤝To connect with me</b>
