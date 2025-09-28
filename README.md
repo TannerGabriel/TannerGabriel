@@ -1,10 +1,6 @@
 # Hi 👋, I'm Gabriel Tanner
 
-I'm a backend developer currently focusing on Golang that loves to write technical articles and contributing to open source.
-
-- 👨🏽‍💻 Currently working and growing my skillset in Golang, Docker and Kubernetes
-- 🤝 Open for collaborations regarding technical articles and backend/devops projects
-- 🌐 Visit my [website](https://gabrieltanner.org) for more information
+I'm currently doing my Master's in Software Engineering at [TU Munich](https://www.tum.de/en/studies/degree-programs/detail/software-engineering-master-of-science-msc) and previously studied Applied Computer Science at the [University of Klagenfurt](https://www.aau.at/).
 
 <b>📕 Latest blog posts</b>
 
@@ -25,4 +21,4 @@ I'm a backend developer currently focusing on Golang that loves to write technic
 
 </p>
 
-Passionate about **Golang/Linux/Open source**. Likes to write code. **Scroll down!**
+Passionate about **Computer Architecture/Linux/Open source**. Likes to write code. **Scroll down!**
